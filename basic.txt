@@ -6,3 +6,4 @@ pass
 administrator
 secret
 key
+sha256
